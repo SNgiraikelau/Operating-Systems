@@ -1,0 +1,5 @@
+Starting up a computer or mobile device
+Power gets thruogh the circuitry via electrical current
+Tests are then executed based on the system set-up including peripharals, making sure everything is working properly
+If everything checks out, the kernal of the OS load to the RAM
+OS in the memory then controls the device and loads configurations, UI then shows up on screen and so forth 
